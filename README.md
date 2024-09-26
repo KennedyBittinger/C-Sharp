@@ -9,3 +9,5 @@ Welcome to my project repository! I upload `.zip` files that contain the full pr
 - Visual output (images, graphs, etc.)
   
 All code is developed using **Visual Studio**. Each `.zip` file contains all necessary components to explore, build, and run the project.
+
+Download raw file in order to view.
